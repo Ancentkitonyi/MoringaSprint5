@@ -296,3 +296,11 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
   border-radius: 25px;
   padding: 10px; 
 }
+
+.daf
+{
+  color:#FFFFFF;
+  font-size: 16px;
+  margin: auto;
+  width: 80%;
+}
